@@ -1,7 +1,7 @@
 body, html {height: 100%;}
 
 .bgimg{
-    background-image: url('../js/images/kobe.jpg');
+    background-image: url('https://media13.s-nbcnews.com/j/MSNBC/Components/Video/202002/200223-kobe-bryant-livestream_29044ca45323009181ae1962b43fbe77.focal-760x428.jpg');
     min-height: 100%;
     background-position: center;
     background-size: cover; 
